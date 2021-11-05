@@ -1,5 +1,5 @@
 <?php
-// defince maximum old value 
+// define maximum old value 
 $maximumOlValue = 2600000; // for example 
 // connect to DB
 $mysqli = new mysqli("localhost", "root", "", "empire");
